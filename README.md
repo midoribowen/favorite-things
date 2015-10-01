@@ -16,7 +16,7 @@ This is a personal webpage built for the purpose of learning how to use HTML, CS
 
 ## Link
 
-* http://midoribowen.github.io/Favorite_Things
+* http://midoribowen.github.io/favorite_things
 
 ### Legal
 
